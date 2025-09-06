@@ -1,0 +1,7 @@
+name=(input('enter your name'))
+age=(input('enter your age'))
+school=(input('enter your school name'))
+print('\nPersonal details')
+print('name is:',name)
+print('age is:',age)
+print('school is:',school)
